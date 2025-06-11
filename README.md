@@ -10,5 +10,5 @@ All problems in this repo were solved using the following steps
 6. Apply the right technique to overcome the inefficiency. Repeat steps 3 to 6.
 7. Don't stop until you've implemented a correct solution that runs efficiently.
 
-This repo follows the free code camp tutorial for Python DSA
+This repo follows the freecodecamp tutorial for Python DSA
 https://www.youtube.com/watch?v=pkYVOmU3MgA&ab_channel=freeCodeCamp.org
