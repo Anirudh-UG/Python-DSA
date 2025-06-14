@@ -1,14 +1,102 @@
-# This project is a complete tutorial to Data Structures & Algorithms
+# Python-DSA
 
-All problems in this repo were solved using the following steps
+## Overview
+**Python-DSA** is my personal Data Structures and Algorithms (DSA) repository built using Python.  
+This project serves as a portfolio to demonstrate proficiency in core data structures, algorithm design, problem-solving, and Pythonic implementations.
 
-1. State the problem clearly. Identify the input & output formats.
-2. Come up with some example inputs & outputs. Try to cover all edge cases.
-3. Come up with a correct solution for the problem. State it in plain English.
-4. Implement the solution and test it using example inputs. Fix bugs, if any.
-5. Analyze the algorithm's complexity and identify any inefficiencies.
-6. Apply the right technique to overcome the inefficiency. Repeat steps 3 to 6.
-7. Don't stop until you've implemented a correct solution that runs efficiently.
+The repository is structured to cover a comprehensive range of DSA topics, focusing on clarity, efficiency, and systematic problem-solving.
 
-This repo follows the freecodecamp tutorial for Python DSA
-https://www.youtube.com/watch?v=pkYVOmU3MgA&ab_channel=freeCodeCamp.org
+---
+
+## Contents
+This repository includes Python implementations of:
+
+- **Search Algorithms**
+  - Linear Search
+  - Binary Search
+- **Linked Lists**
+  - Singly Linked List
+  - Linked List Operations
+- **Binary Trees**
+  - Tree Construction
+  - Tree Traversals: Inorder, Preorder, Postorder
+- **Binary Search Trees (BST)**
+  - BST Properties
+  - Insert, Search, Delete Operations
+- **Hash Tables**
+  - Custom Hash Table Implementation
+  - Collision Handling Techniques
+- **Sorting Algorithms**
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+- **Recursion and Dynamic Programming**
+  - Recursive Solutions
+  - Memoization
+  - Backtracking Techniques
+  - Classic Problems: Subsequence, Knapsack
+- **Divide and Conquer Algorithms**
+  - Efficient Polynomial Multiplication
+  - Time and Space Optimization Techniques
+- **Graph Algorithms**
+  - Graph Representations (Adjacency Lists)
+  - Breadth-First Search (BFS)
+  - Depth-First Search (DFS)
+  - Shortest Path Algorithms
+- **Complexity Analysis**
+  - Time Complexity (Big O Notation)
+  - Space Complexity
+  - Performance Optimization
+
+---
+
+## Repository Structure
+```text
+Python-DSA/
+│
+├── Search/
+│   ├── linear_search.py
+│   └── binary_search.py
+│
+├── LinkedLists/
+│   ├── singly_linked_list.py
+│   └── linked_list_operations.py
+│
+├── Trees/
+│   ├── binary_tree.py
+│   ├── tree_traversals.py
+│   ├── binary_search_tree.py
+│   └── bst_operations.py
+│
+├── HashTables/
+│   ├── hash_table.py
+│   └── collision_handling.py
+│
+├── Sorting/
+│   ├── bubble_sort.py
+│   ├── insertion_sort.py
+│   ├── merge_sort.py
+│   └── quick_sort.py
+│
+├── Recursion_DP/
+│   ├── recursion_basics.py
+│   ├── memoization.py
+│   ├── knapsack_problem.py
+│   └── backtracking.py
+│
+├── DivideConquer/
+│   ├── polynomial_multiplication.py
+│   └── optimization_examples.py
+│
+├── Graphs/
+│   ├── graph_representation.py
+│   ├── bfs.py
+│   ├── dfs.py
+│   └── shortest_paths.py
+│
+├── ComplexityAnalysis/
+│   ├── time_complexity.py
+│   └── space_complexity.py
+│
+└── README.md
