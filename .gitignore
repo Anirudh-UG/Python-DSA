@@ -8,6 +8,11 @@ wheels/
 uv.lock
 main.py
 .python-version
+
 # Virtual environments
 .venv
 /python_dsa/
+
+# ipynb checkpoints
+trees/.ipynb_checkpoints
+.ipynb_checkpoints
